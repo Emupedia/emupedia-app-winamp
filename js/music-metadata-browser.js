@@ -1,2 +1,2 @@
 (window.webpackJsonp=window.webpackJsonp||[]).push([[1],{137:function(n,e){},139:function(n,e){},404:function(n,e,i){var o={"./aiff/index":405,"./apev2/index":409,"./asf/index":410,"./flac/index":414,"./mp4/index":416,"./mpeg/index":419,"./ogg/index":422,"./riff/index":428,"./wavpack/index":432};function r(n){var e=d(n);return i(e)}function d(n){if(!i.o(o,n)){var e=new Error("Cannot find module '"+n+"'");throw e.code="MODULE_NOT_FOUND",e}return o[n]}r.keys=function(){return Object.keys(o)},r.resolve=d,n.exports=r,r.id=404}}]);
-//# sourceMappingURL=music-metadata-browser-01f0353180f5fe67b31b.js.map
+//# sourceMappingURL=music-metadata-browser.js.map
